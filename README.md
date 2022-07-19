@@ -1,2 +1,2 @@
 # burder
-Some may know, come may not.
+Some may know, some may not.
